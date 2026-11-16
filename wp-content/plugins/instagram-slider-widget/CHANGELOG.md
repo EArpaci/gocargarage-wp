@@ -1,0 +1,60 @@
+#####   Version 2.3.9 (2026-11-05)
+
+- Enhanced security
+- Updated dependencies
+
+#####   Version 2.3.8 (2026-10-15)
+
+- Fixed Instagram word filters to handle commas and spaces across all templates.
+- Fixed the Masonry layout to use the configured spacing between posts.
+- Fixed missing like, share, and comment icons in Facebook feed cards and popups.
+- Fixed feeds crashing when Instagram returns a post without an image URL.
+- Fixed YouTube title word limits and removed the unused Facebook caption limit.
+- Updated dependencies
+
+#####   Version 2.3.7 (2026-09-30)
+
+- Added AI agent support: let AI assistants read and change your Social Slider Feed settings and feeds.
+- Fixed YouTube feeds showing videos with blocked words at the start of titles
+- Fixed Facebook, YouTube, and affected Instagram feeds not appearing on phones and tablets.
+- Fixed Facebook Masonry headers to show the Page name, avatar, and link.
+- Fixed Facebook feeds to sort posts by date or popularity.
+- Fixed Instagram feeds crashing when accounts have fewer posts than the image limit.
+- Fixed YouTube videos to link to the selected custom URL.
+- Updated dependencies
+
+#####   Version 2.3.6 (2026-09-14)
+
+- Fixed Instagram feeds that failed when sorted by date in ascending order.
+- Fixed Instagram feeds crashing when saved feed data is unavailable.
+- Fixed Instagram feeds crashing when unavailable feed data was sorted.
+- Updated dependencies
+
+#####   Version 2.3.5 (2026-07-29)
+
+- Updated dependencies
+
+#####   Version 2.3.4 (2026-04-09)
+
+- Updated dependencies
+
+#####   Version 2.3.3 (2026-03-05)
+
+- Enhanced security
+
+#####   Version 2.3.2 (2026-02-06)
+
+- Moved all PRO features to the free version
+- Removed personal Instagram account option since its no longer supported by Instagram API
+- Removed support box and simplified UI
+- Fixed issue where Instagram content by username was not fetching
+
+#####   Version 2.3.1 (2025-11-26)
+
+- Update author and remove Instagram personal account connections which is no longer supported by Meta
+
+####   Version 2.3.0 (2025-11-26)
+
+Social Slider Feed plugin has been acquired by Themeisle 🎉
+We’re happy to announce that Themeisle is now the new owner of Social Slider Feed. This acquisition will help ensure the plugin’s continued development, better support, and exciting new updates in the future.
+Your existing setup will continue to work as usual — no action is required on your part.

@@ -1,0 +1,43 @@
+# SQL dumps (hassas veri) - Manuel import edilecek
+*.sql
+*.sql.gz
+init.sql
+
+# Uploads - çok büyük, ayrı yönetilecek
+wp-content/uploads/
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Logs
+*.log
+wp-content/debug.log
+
+# Cache
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+
+# Uploads - bunları git'e koymuyoruz, volume olarak mount edilecek
+# wp-content/uploads/
+
+# Upgrade files
+wp-content/upgrade/
+
+# Backup files
+*.bak
+*.backup
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node modules (eğer varsa)
+node_modules/
+
+# Environment files (local için)
+.env.local
+.env.prod
