@@ -29,6 +29,7 @@ services:
       WORDPRESS_DB_NAME: ${MYSQL_DATABASE:-wordpress}
       WORDPRESS_DB_USER: ${MYSQL_USER:-wordpress}
       WORDPRESS_DB_PASSWORD: ${MYSQL_PASSWORD:-wordpress}
+      WORDPRESS_TABLE_PREFIX: wphr_
     volumes:
       - ./:/var/www/html
 
